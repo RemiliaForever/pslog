@@ -12,4 +12,4 @@ pslog
 ./showlog.py log [time]
 ```
 
-![result](https://raw.githubusercontent.com/RemiliaForever/pslog/branch/master/example/result.jpg "result")
+![result](https://raw.githubusercontent.com/RemiliaForever/pslog/master/example/result.jpg "result")
